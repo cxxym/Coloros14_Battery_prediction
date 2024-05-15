@@ -1,2 +1,2 @@
-# Coloros14_buttery_Battery_prediction
-使用AI复制粘贴功能开发。🤣
+# Coloros14_Battery_prediction
+使用AI、复制、粘贴、文件管理器等工具开发。😍
